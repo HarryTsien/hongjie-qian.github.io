@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-02-28T20:01:40.328Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2021/03/01/First%20post%20on%20my%20blog/"/>
+    <id>http://example.com/2021/03/01/First%20post%20on%20my%20blog/</id>
+    <published>2021-02-28T20:01:40.003Z</published>
+    <updated>2021-02-28T20:01:40.328Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="First-post-on-my-blog"><a href="#First-post-on-my-blog" class="headerlink" title="First post on my blog"></a>First post on my blog</h1><p>Greetings, mates!</p><p>I believe it would be a wonderful journey to write on the Internet in my own spot.</p><p>Thank you for any support and suggestions!😄 </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;First-post-on-my-blog&quot;&gt;&lt;a href=&quot;#First-post-on-my-blog&quot; class=&quot;headerlink&quot; title=&quot;First post on my blog&quot;&gt;&lt;/a&gt;First post on my blog&lt;/</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
