@@ -1,14 +1,14 @@
 :root {
   --background-color: #fff;
   --second-background-color: #f7f7f7;
-  --primary-color: #369;
+  --primary-color: #36c;
   --first-text-color: #484853;
   --second-text-color: #4c4c57;
   --third-text-color: #808091;
   --fourth-text-color: #ededef;
   --default-text-color: #50505c;
   --border-color: #b3b3b3;
-  --selection-color: #3b75b0;
+  --selection-color: #4775d1;
   --shadow-color: rgba(0,0,0,0.2);
   --shadow-hover-color: rgba(0,0,0,0.28);
   --scrollbar-color: #505050;
@@ -22,14 +22,14 @@
   :root {
     --background-color: #fff;
     --second-background-color: #f7f7f7;
-    --primary-color: #369;
+    --primary-color: #36c;
     --first-text-color: #484853;
     --second-text-color: #4c4c57;
     --third-text-color: #808091;
     --fourth-text-color: #ededef;
     --default-text-color: #50505c;
     --border-color: #b3b3b3;
-    --selection-color: #3b75b0;
+    --selection-color: #4775d1;
     --shadow-color: rgba(0,0,0,0.2);
     --shadow-hover-color: rgba(0,0,0,0.28);
     --scrollbar-color: #505050;
@@ -44,14 +44,14 @@
   :root {
     --background-color: #383940;
     --second-background-color: #32333a;
-    --primary-color: #369;
+    --primary-color: #36c;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
     --fourth-text-color: #242429;
     --default-text-color: #bebec6;
     --border-color: #5c5e6a;
-    --selection-color: #3b75b0;
+    --selection-color: #4775d1;
     --shadow-color: rgba(128,128,128,0.2);
     --shadow-hover-color: rgba(128,128,128,0.28);
     --scrollbar-color: #303030;
@@ -65,14 +65,14 @@
 .light-mode {
   --background-color: #fff;
   --second-background-color: #f7f7f7;
-  --primary-color: #369;
+  --primary-color: #36c;
   --first-text-color: #484853;
   --second-text-color: #4c4c57;
   --third-text-color: #808091;
   --fourth-text-color: #ededef;
   --default-text-color: #50505c;
   --border-color: #b3b3b3;
-  --selection-color: #3b75b0;
+  --selection-color: #4775d1;
   --shadow-color: rgba(0,0,0,0.2);
   --shadow-hover-color: rgba(0,0,0,0.28);
   --scrollbar-color: #505050;
@@ -85,14 +85,14 @@
 .dark-mode {
   --background-color: #383940;
   --second-background-color: #32333a;
-  --primary-color: #369;
+  --primary-color: #36c;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
   --fourth-text-color: #242429;
   --default-text-color: #bebec6;
   --border-color: #5c5e6a;
-  --selection-color: #3b75b0;
+  --selection-color: #4775d1;
   --shadow-color: rgba(128,128,128,0.2);
   --shadow-hover-color: rgba(128,128,128,0.28);
   --scrollbar-color: #303030;
@@ -538,14 +538,14 @@ button {
 :root {
   --background-color: #fff;
   --second-background-color: #f7f7f7;
-  --primary-color: #369;
+  --primary-color: #36c;
   --first-text-color: #484853;
   --second-text-color: #4c4c57;
   --third-text-color: #808091;
   --fourth-text-color: #ededef;
   --default-text-color: #50505c;
   --border-color: #b3b3b3;
-  --selection-color: #3b75b0;
+  --selection-color: #4775d1;
   --shadow-color: rgba(0,0,0,0.2);
   --shadow-hover-color: rgba(0,0,0,0.28);
   --scrollbar-color: #505050;
@@ -559,14 +559,14 @@ button {
   :root {
     --background-color: #fff;
     --second-background-color: #f7f7f7;
-    --primary-color: #369;
+    --primary-color: #36c;
     --first-text-color: #484853;
     --second-text-color: #4c4c57;
     --third-text-color: #808091;
     --fourth-text-color: #ededef;
     --default-text-color: #50505c;
     --border-color: #b3b3b3;
-    --selection-color: #3b75b0;
+    --selection-color: #4775d1;
     --shadow-color: rgba(0,0,0,0.2);
     --shadow-hover-color: rgba(0,0,0,0.28);
     --scrollbar-color: #505050;
@@ -581,14 +581,14 @@ button {
   :root {
     --background-color: #383940;
     --second-background-color: #32333a;
-    --primary-color: #369;
+    --primary-color: #36c;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
     --fourth-text-color: #242429;
     --default-text-color: #bebec6;
     --border-color: #5c5e6a;
-    --selection-color: #3b75b0;
+    --selection-color: #4775d1;
     --shadow-color: rgba(128,128,128,0.2);
     --shadow-hover-color: rgba(128,128,128,0.28);
     --scrollbar-color: #303030;
@@ -602,14 +602,14 @@ button {
 .light-mode {
   --background-color: #fff;
   --second-background-color: #f7f7f7;
-  --primary-color: #369;
+  --primary-color: #36c;
   --first-text-color: #484853;
   --second-text-color: #4c4c57;
   --third-text-color: #808091;
   --fourth-text-color: #ededef;
   --default-text-color: #50505c;
   --border-color: #b3b3b3;
-  --selection-color: #3b75b0;
+  --selection-color: #4775d1;
   --shadow-color: rgba(0,0,0,0.2);
   --shadow-hover-color: rgba(0,0,0,0.28);
   --scrollbar-color: #505050;
@@ -622,14 +622,14 @@ button {
 .dark-mode {
   --background-color: #383940;
   --second-background-color: #32333a;
-  --primary-color: #369;
+  --primary-color: #36c;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
   --fourth-text-color: #242429;
   --default-text-color: #bebec6;
   --border-color: #5c5e6a;
-  --selection-color: #3b75b0;
+  --selection-color: #4775d1;
   --shadow-color: rgba(128,128,128,0.2);
   --shadow-hover-color: rgba(128,128,128,0.28);
   --scrollbar-color: #303030;
