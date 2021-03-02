@@ -1,27 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Tsien&#39;s Blog</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-28T20:56:38.396Z</updated>
+  <updated>2021-03-02T17:13:51.882Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Hongjie Harry QIAN</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="http://example.com/2021/03/03/A%20possible%20biosynthesis%20pathway%20of%20arctigenin%20in%20%20Arctium%20lappa%20L/"/>
+    <id>http://example.com/2021/03/03/A%20possible%20biosynthesis%20pathway%20of%20arctigenin%20in%20%20Arctium%20lappa%20L/</id>
+    <published>2021-03-02T17:13:51.547Z</published>
+    <updated>2021-03-02T17:13:51.882Z</updated>
+    
+    <content type="html"><![CDATA[<hr><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">title: A possible biosynthesis pathway of arctigenin in  Arctium lappa L.</span><br><span class="line">date: 2021-03-03 16:02:07</span><br><span class="line">tags: [Biosynthesis] []</span><br><span class="line">categories: [Research]</span><br><span class="line">comment: true</span><br><span class="line">+ Sticky: 8</span><br></pre></td></tr></table></figure><p>​        It is a potential pathway of  <strong>arctigenin</strong> biosynthesis in <em>Arctium lappa L.</em>. ,<br></p><p>​        This assumption is based on:</p><blockquote><p>[1] Chan, Y. S., Cheng, L. N., Wu, J. H., Chan, E., Kwan, Y. W., Lee, S. M., Leung, G. P., Yu, P. H., &amp; Chan, S. W. (2011). A review of the pharmacological effects of Arctium lappa (burdock). <em>Inflammopharmacology</em>, <em>19</em>(5), 245–254. </p><p>[2] Morimoto, K., &amp; Satake, H. (2013). Seasonal alteration in amounts of lignans and their glucosides and gene expression of the relevant biosynthetic enzymes in the Forsythia suspense leaf. <em>Biological &amp; pharmaceutical bulletin</em>, <em>36</em>(9), 1519–1523. </p><p>[3] Ozawa, S., Davin, L. B., &amp; Lewis, N. G. (1993). Formation of (−)-arctigenin in Forsythia intermedia. <em>Phytochemistry</em>, <em>32</em>(3), 643-652.</p></blockquote><p>​        Due to the fact that caffeyl alcohol (zh: 咖啡醇) is abundant in <em>Actrium lappa L.</em>, we set the substrate as caffeyl alcohol.</p><p><img src="C:\Users\user\hongjie-qian.github.io\source_posts\arctigenin_biosynthesis.jpg" alt="arctigenin biosynthesis"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>First Post on My Blog</title>
     <link href="http://example.com/2021/03/01/First%20post%20on%20my%20blog/"/>
     <id>http://example.com/2021/03/01/First%20post%20on%20my%20blog/</id>
     <published>2021-02-28T19:00:00.000Z</published>
-    <updated>2021-02-28T20:56:38.396Z</updated>
+    <updated>2021-03-02T17:00:34.269Z</updated>
     
     <content type="html"><![CDATA[<p>Greetings, mates!</p><p>I believe it would be a wonderful journey to write on the Internet in my own spot.</p><p>Thank you for any support and suggestions!😄 </p>]]></content>
     
