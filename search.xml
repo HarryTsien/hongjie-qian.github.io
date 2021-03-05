@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>First Post on My Blog</title>
-    <url>/2021/03/01/First%20post%20on%20my%20blog/</url>
-    <content><![CDATA[<p>Greetings, mates!</p>
-<p>I believe it would be a wonderful journey to write on the Internet in my own spot.</p>
-<p>Thank you for any support and suggestions!😄 </p>
-]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>Life</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A possible biosynthesis pathway of arctigenin in Arctium lappa L.</title>
     <url>/2021/03/03/A%20possible%20biosynthesis%20pathway%20of%20arctigenin%20in%20%20Arctium%20lappa%20L/</url>
     <content><![CDATA[<p>It is a potential pathway of  <strong>arctigenin</strong> biosynthesis in <em>Arctium lappa L.</em>. ,<br></p>
@@ -32,6 +18,20 @@
       </categories>
       <tags>
         <tag>Arctium lappa L.</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>First Post on My Blog</title>
+    <url>/2021/03/01/First%20post%20on%20my%20blog/</url>
+    <content><![CDATA[<p>Greetings, mates!</p>
+<p>I believe it would be a wonderful journey to write on the Internet in my own spot.</p>
+<p>Thank you for any support and suggestions!😄 </p>
+]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>Life</tag>
       </tags>
   </entry>
   <entry>
@@ -118,6 +118,37 @@
       <tags>
         <tag>iGEM</tag>
         <tag>Polypropylene</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Pharmacy Law - Lecture 1</title>
+    <url>/2021/03/05/Pharmacy%20Law%20-%20Lecture%201/</url>
+    <content><![CDATA[<h1 id="Pharmacy-Law-Lecture-1"><a href="#Pharmacy-Law-Lecture-1" class="headerlink" title="Pharmacy Law - Lecture 1"></a>Pharmacy Law - Lecture 1</h1><ol>
+<li><p>药品：</p>
+<p>​        指用于预防、治疗、诊断人的疾病，有目的地调节人的生理机能并规定有适应症或者功能主治、用法和用量的物质，包括中药、化学药和生物制品等。</p>
+</li>
+<li><p>药事：</p>
+<p>​        指和药品科研、生产、流通、使用、售后、监管和教育等一切有关的事物。</p>
+</li>
+<li><p>药事管理:</p>
+<ul>
+<li>_广义_：就是对药事活动所需要资源的配置。</li>
+<li>_狭义_：就是药品的监督管理活动。</li>
+</ul>
+</li>
+<li><p>药事法规：</p>
+<p>​        就是指国家对药品、药事、药事管理所制定的监督法律法规和标准等。</p>
+</li>
+<li><p><strong>管理原则</strong>：</p>
+<p>​        药品管理应当以人民健康为中心， <font color="#CC0000">坚持风险管理、全程管控、社会共治的原则</font>，建立科学、严格的监督管理制度，全面提升药品质量，保障<font color="#CC0000">药品的安全、有效、可及</font>。</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Pharmacy Law</category>
+      </categories>
+      <tags>
+        <tag>Study</tag>
       </tags>
   </entry>
 </search>
