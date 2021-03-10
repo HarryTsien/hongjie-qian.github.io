@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-10T05:55:50.297Z</updated>
+  <updated>2021-03-10T06:21:35.316Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2021/03/10/Bioinformatics%20-%20Lecture%201/"/>
     <id>http://example.com/2021/03/10/Bioinformatics%20-%20Lecture%201/</id>
     <published>2021-03-10T05:00:00.000Z</published>
-    <updated>2021-03-10T05:55:50.297Z</updated>
+    <updated>2021-03-10T06:21:35.316Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Bioinformatics-Lecture-1"><a href="#Bioinformatics-Lecture-1" class="headerlink" title="Bioinformatics Lecture 1"></a>Bioinformatics Lecture 1</h1><h2 id="Fundamental-Concepts-of-Bioinformatics"><a href="#Fundamental-Concepts-of-Bioinformatics" class="headerlink" title="Fundamental Concepts of Bioinformatics"></a>Fundamental Concepts of Bioinformatics</h2><p><em>Central Dogma</em>: DNA, RNA and proteins</p><p><em>HGP</em>: Human Genome Project 人类基因组计划</p><p><em>-omics</em>: 组学</p><p>Bioinformatics: </p><ul><li><font color="#33CCFF">Collection, processing & storage</font>: <font color="#FF0000">computer scientist</font></li><li><font color="#33CCFF">Analysis & interpretation</font>: <font color="#FF0000">biologist</font></li></ul><p><strong>➡</strong>Bioinformatics is a combination of <strong>mathematical sciences</strong>, <strong>computer sciences</strong> and <strong>life sciences</strong>.</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Bioinformatics-Lecture-1"><a href="#Bioinformatics-Lecture-1" class="headerlink" title="Bioinformatics Lecture 1"></a>Bioinformatics Lecture 1</h1><h2 id="Fundamental-Concepts-of-Bioinformatics"><a href="#Fundamental-Concepts-of-Bioinformatics" class="headerlink" title="Fundamental Concepts of Bioinformatics"></a>Fundamental Concepts of Bioinformatics</h2><p><em>Central Dogma</em>: DNA, RNA and proteins</p><p><em>HGP</em>: Human Genome Project 人类基因组计划</p><p><em>-omics</em>: 组学</p><p>Bioinformatics: </p><ul><li><font color="#33CCFF">Collection, processing & storage</font>: <font color="#FF0000">computer scientist</font></li><li><font color="#33CCFF">Analysis & interpretation</font>: <font color="#FF0000">biologist</font></li></ul><p><strong>➡</strong>Bioinformatics is a combination of </p><p>&emsp;&emsp;<strong>(1) mathematical sciences</strong> </p><p>&emsp;&emsp;<strong>(2) computer sciences</strong></p><p>&emsp;&emsp;<strong>(3) life sciences</strong></p><p>Main research area of bioinformatics:</p><ul><li>Genome sequence assembly</li><li>Gene identification</li><li>Gene function prediction</li><li>Genetic polymorphism analysis</li><li>Gene evolution</li><li>mRNA structure prediction</li><li>Gene chip design</li><li>Gene chip data analysis</li><li>Disease related gene analysis</li><li>Protein sequence analysis</li><li>Protein family classification</li><li>Protein structure prediction</li><li>Study of protein folding</li><li>Metabolic pathway analysis</li><li>Transcriptional regulation mechanism</li><li>Protein chip design</li><li>Protein microarray data analysis</li><li>Drug design (<font color="#FF0000">C</font>omputer-<font color="#FF0000">A</font>ssisted <font color="#FF0000">D</font>rug <font color="#FF0000">D</font>esign, <font color="#FF0000">CADD</font>)</li><li>…</li></ul><p>Genomic database: <strong>EMBL</strong>, <strong>GenBank</strong>, <strong>DDBJ</strong></p><p>Protein sequence database: <strong>SWISS-PROT</strong>, <strong>PIR</strong></p><p>Protein sequence database: <strong>PDB</strong></p><p><img src="https://res.cloudinary.com/dmcepdgpr/image/upload/v1615356988/Bioinfo_database_heun2w.jpg" alt="bioinfo_database"></p><p>Three major gene database:</p><p>GenBank, EMBL Data Library, DDBJ (DNA Data Bank of Japan) ➡ Public free Available via Internet</p>]]></content>
     
     
       
