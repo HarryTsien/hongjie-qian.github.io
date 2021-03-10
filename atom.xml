@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-10T05:48:06.149Z</updated>
+  <updated>2021-03-10T05:55:50.297Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2021/03/10/Bioinformatics%20-%20Lecture%201/"/>
     <id>http://example.com/2021/03/10/Bioinformatics%20-%20Lecture%201/</id>
     <published>2021-03-10T05:00:00.000Z</published>
-    <updated>2021-03-10T05:48:06.149Z</updated>
+    <updated>2021-03-10T05:55:50.297Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Bioinformatics-Lecture-1"><a href="#Bioinformatics-Lecture-1" class="headerlink" title="Bioinformatics Lecture 1"></a>Bioinformatics Lecture 1</h1><h2 id="Fundamental-Concepts-of-Bioinformatics"><a href="#Fundamental-Concepts-of-Bioinformatics" class="headerlink" title="Fundamental Concepts of Bioinformatics"></a>Fundamental Concepts of Bioinformatics</h2>]]></content>
+    <content type="html"><![CDATA[<h1 id="Bioinformatics-Lecture-1"><a href="#Bioinformatics-Lecture-1" class="headerlink" title="Bioinformatics Lecture 1"></a>Bioinformatics Lecture 1</h1><h2 id="Fundamental-Concepts-of-Bioinformatics"><a href="#Fundamental-Concepts-of-Bioinformatics" class="headerlink" title="Fundamental Concepts of Bioinformatics"></a>Fundamental Concepts of Bioinformatics</h2><p><em>Central Dogma</em>: DNA, RNA and proteins</p><p><em>HGP</em>: Human Genome Project 人类基因组计划</p><p><em>-omics</em>: 组学</p><p>Bioinformatics: </p><ul><li><font color="#33CCFF">Collection, processing & storage</font>: <font color="#FF0000">computer scientist</font></li><li><font color="#33CCFF">Analysis & interpretation</font>: <font color="#FF0000">biologist</font></li></ul><p><strong>➡</strong>Bioinformatics is a combination of <strong>mathematical sciences</strong>, <strong>computer sciences</strong> and <strong>life sciences</strong>.</p>]]></content>
     
     
       
